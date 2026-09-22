@@ -1,0 +1,6 @@
+{
+  "name": "Problem Solve",
+  "description": "A student doubt-solving and problem discussion platform developed by Ashu Yadav.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
